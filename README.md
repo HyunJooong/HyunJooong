@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=HyunJoong%20Github&fontSize=70)
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 <br>
-
 <p align = "center">
   <img src="https://img.shields.io/badge/Java-006D5C?style=flat-square&logo=CoffeeScript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
@@ -19,6 +18,8 @@
   <img src="https://img.shields.io/badge/Notion-343434?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Postman-F05032?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HyunJooong&show_icons=true&theme=cobalt" alt="Anurag's GitHub stats">

@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Notion-343434?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Postman-F05032?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 </p>
-<div style="border-top: 2px solid #eaeaea; margin: 20px 0;"></div>
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HyunJooong&show_icons=true&theme=cobalt" alt="Anurag's GitHub stats">
 </p>

@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=HyunJoong%20Github&fontSize=70)
+<h2 align="center"> "천천히, 하지만 분명히"<h2>
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 <br>
 <p align = "center">
